@@ -1,0 +1,50 @@
+body, html {
+    height:100%;
+    margin: 0;
+}
+
+header {
+    background: #87afff;
+    height: 60px;
+    left: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width 100%;
+
+}
+
+.page-container {
+    display:flex;
+    height:100%;
+}
+.header {
+    margin-left: 120px;
+    left: 0;
+    top: 60px;
+    width: 100%;
+    text-align: center;
+    background-color: #87afff;
+    color: white;
+    font-size 30px;
+}
+
+
+.sidebar {
+    /* for layout */
+    width: 350px;
+    height: 100%;
+    overflow: hidden;
+
+    /* for style */
+    padding: 1em;
+    text-align: center;
+    border-right: 5px solid #e6dede;
+    background-color: #e6dede;
+}
+
+.main-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}

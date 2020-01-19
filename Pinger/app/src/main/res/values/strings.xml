@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pinger</string>
+    <string name="test_input">Your name?</string>
+    <string name="enter_button">Ping!</string>
+    <string name="textviewstring" />
+    <string name="lastMessage"/>
+    <string name="questionString">Are you safe?</string>
+    <string name="questionString2">Are you injured?</string>
+</resources>
